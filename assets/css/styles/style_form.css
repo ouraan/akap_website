@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+body{
+    width: 100%;
+}
+.navbar-brand{
+    font-family: 'Righteous', cursive;
+    font-size: 26px;
+    color: rgb(35, 35, 35);
+}
+.navbar-brand:hover{
+    color: #c59308;
+}
+
+#div-reserv{
+    padding-left: 15%;
+    padding-right: 15%;
+}
+#btn-count{
+    float: right;
+}
